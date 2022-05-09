@@ -1,0 +1,17 @@
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\bin\Debug\net6.0-windows\SegundoParcialCalculadora.exe
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\bin\Debug\net6.0-windows\SegundoParcialCalculadora.deps.json
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\bin\Debug\net6.0-windows\SegundoParcialCalculadora.runtimeconfig.json
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\bin\Debug\net6.0-windows\SegundoParcialCalculadora.dll
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\bin\Debug\net6.0-windows\SegundoParcialCalculadora.pdb
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.csproj.AssemblyReference.cache
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.Form1.resources
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.csproj.GenerateResource.cache
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.AssemblyInfoInputs.cache
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.AssemblyInfo.cs
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.dll
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\refint\SegundoParcialCalculadora.dll
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.pdb
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\SegundoParcialCalculadora.genruntimeconfig.cache
+C:\Users\eroda\OneDrive\Documentos\Examenes Temporales\progra\SegundoParcialCalculadora\SegundoParcialCalculadora\obj\Debug\net6.0-windows\ref\SegundoParcialCalculadora.dll
